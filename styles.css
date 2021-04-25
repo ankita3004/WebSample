@@ -3,62 +3,83 @@ body{
   background-color: #02084a;
 
 }
-.details{
+/* .details{
   padding: 0 5%;
-}
+} */
 
 h1{
-  color: #edefff;
+  color: #f2fcfb;
   font-size: 3.5rem;
-  padding:1% 1%;
+  padding:0 1%;
+  font-family: 'Alata', sans-serif;
+  text-shadow:
 }
 h2{
   font-size:2rem;
-  color: #010469;
+  color: #02084a;
   font-size: 2.3rem;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 .begin{
   background-color: #f2fcfb;
-  margin:3% 10%;
-  padding: 2% 5%;
+  margin:1% 10% 3%;
+  padding: 1% 10%;
 }
 
 .img1{
   float: right;
-  padding: 1.5% 1% 1% 2%;
+  padding: 2% 1% 0.5% 2%;
   height: 200px;
   width: 30%;
 }
 .img2{
   float: right;
-  padding: 1.5% 1% 1% 2%;
-  height: 180px;
+  padding: 2% 1% 0.5% 2%;
+  height: 200px;
   width: 30%;
 }
 .img3{
   float: left;
-  padding: 1.5% 2% 1% 1%;
-  height: 180px;
+  padding: 2% 2% 0.5% 1%;
+  height: 200px;
   width: 30%;
 }
-.img4{
+/* .img4{
   float: right;
-  padding: 1.5% 1% 1% 2%;
+  padding: 1.5% 1% 0.7% 2%;
   height: 180px;
   width: 30%;
-}
+} */
 p{
-  padding: 1% 0;
+  padding:1% 0;
   font-size: 1.3rem;
   text-align: justify;
   color: black;
+  font-family: 'PT Sans', sans-serif;
 }
-.link{
-  text-align: center;
-  padding: 0 0 0 35%;
+ul{
+  padding-left: 45%;
 }
+li{
+  padding-right: 80%;
+  font-size: 1.3rem;
+  font-family: 'PT Sans', sans-serif;
+}
+.text{
+  color:#ebdcf5;
+  font-size: 1.5rem;
+}
+.alinks{
+  padding-bottom: 3%;
+}
+a{
+  padding: 1%;
+  font-size: 1.2rem;
+  color: #ac87cc;
+}
+
 p1{
   color: #ebdcf5;
-  padding-bottom: 2%;
-  font-size: 1rem;
+  padding: 5% 0 2.2% 0;
+  font-size: 1.1rem;
 }
